@@ -1,4 +1,4 @@
-<img src="C:\Users\PAWANESH\OneDrive\Pictures\Screenshots\deptlogo.png" alt="" align="center" width="225" height="150"><h1 align="center">Department of Master of Computer Application</h1>
+<img src="C:/Users/PAWANESH/OneDrive/Pictures/Screenshots/deptlogo.png" alt="" align="center" width="225" height="150"><h1 align="center">Department of Master of Computer Application</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 <img src="" alt="" align="center" width="auto" height="auto">
